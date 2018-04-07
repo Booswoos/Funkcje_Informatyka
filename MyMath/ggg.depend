@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1523047478 source:d:\programy\codeblocks\nowy folder\matma\ggg\fun.cpp
+	"../funkcje.h"
+	<cmath>
+	<algorithm>
+	<iostream>
+
+1523099200 d:\programy\codeblocks\nowy folder\matma\funkcje.h
+
+1523028175 source:d:\programy\codeblocks\nowy folder\matma\ggg\main.cpp
+	<iostream>
+	"../funkcje.h"
+
+1523105834 source:d:\programy\codeblocks\nowy folder\matma\mymath\fun.cpp
+	"../funkcje.h"
+	<cmath>
+	<algorithm>
+	<iostream>
+
+1523105562 source:d:\programy\codeblocks\nowy folder\matma\mymath\main.cpp
+	<iostream>
+	"../funkcje.h"
+
